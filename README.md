@@ -1,8 +1,6 @@
 # musicxml-to-cnc
 Convert musicxml files to g-code to play on a 3-axis CNC machine
 
-<video src="Example/hark_on_cnc.mp4" controls></video>
-
 ## Usage
 1. Install Python and [music21](https://www.music21.org/music21docs/). 
 2. Use a music editing program to create a 3-voice score as shown. Each voice will be played by one of the motors of the CNC machine.
