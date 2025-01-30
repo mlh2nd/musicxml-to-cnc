@@ -5,7 +5,7 @@ Convert musicxml files to g-code to play on a 3-axis CNC machine
 1. Install Python and [music21](https://www.music21.org/music21docs/). 
 2. Use a music editing program to create a 3-voice score as shown. Each voice will be played by one of the motors of the CNC machine.
 
-![Example score](example/image.png)
+![Example score](Example/image.png)
 
 3. Export your score in musicxml format.
 4. In `xml2cnc.py`, change the input filename to match your musicxml file and the output filename to what you want the machine code to be saved as.
